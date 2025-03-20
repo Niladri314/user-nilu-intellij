@@ -7,5 +7,6 @@ public class A {
         System.out.println("I am from Nilu's city!");
         System.out.println("I am a software engineer!");
         System.out.println("Hello Nilu test1");
+        System.out.println("Hello Nilu test2");
     }
 }
